@@ -15,6 +15,6 @@ pnpm dev
 bun dev
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) com o seu navegador para visualizar o projeto. 
+Abra [http://localhost:3001](http://localhost:3001) com o seu navegador para visualizar o projeto. 
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
